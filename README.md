@@ -1,6 +1,8 @@
 # NoddleShop_ChatBot
 
-This project is assignment of mobile application development.
+This project is assignment of mobile application development and assignment for system development.
+
+Author is Shuwen Tan, from CAD, 8666293
 
 The project try to create a chatbot for my Noddle Shop. It mimic the sms platform to communicate with customers. They can through this sms platform order their noddle, decide taste and topping.
 
