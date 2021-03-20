@@ -10,6 +10,12 @@ The frame and UI design comes from course material, UI author is Pat Wilken.
 
 The core part is index.js which process the order system. Order.js and Noddle.js define the behaviours of the app.
 
-If you dowload the app or clone git to you local machine, pls first npm install, and then npm start 
+
+Instruction for install server:
+If you dowload the app or clone git to you local machine, pls  first run in command line 
+
+npm install
+
+npm start 
 
 then you can see the app on your localhost:3002
